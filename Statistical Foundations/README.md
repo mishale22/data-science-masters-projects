@@ -2,7 +2,7 @@
 
 ## 🐧 Project: Palmer Penguins Data Analysis
 
-##⚡️ Overview
+## ⚡️ Overview
 This project conducts an exploratory data analysis (EDA) on a dataset of penguins to investigate key physical characteristics and identify patterns related to species, sex, and island habitat. The analysis aims to estimate population-wide probabilities, assess methods for distinguishing penguin sex based on physical traits, and evaluate island-related differences among the species. 
 
 ## 🎯 Project Objectives
